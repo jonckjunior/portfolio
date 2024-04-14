@@ -1,1 +1,1 @@
-![](https://github.com/jonckjunior/portfolio/blob/main/media/springs.mp4)
+![](https://github.com/jonckjunior/portfolio/blob/main/media/springs.gif)

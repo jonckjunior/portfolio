@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Link to another page](./another-page.html).
+<!-- [Link to another page](./another-page.html). -->
 
 # Find The Door
 
@@ -21,7 +21,9 @@ The technical aspect of the game includes:
 - In-game collectables
 - Cut-scenes, dialogues, power-ups, and many more
 
-### Header 3
+### The game itself
+
+![](https://github.com/jonckjunior/portfolio/blob/main/media/beginning.mp4)
 
 ---
 

@@ -19,7 +19,7 @@ The technical aspect of the game includes:
 Venture into the mystic realms of **Find The Door**, a 2D platformer filled with complex puzzles and evolving challenges. As a seeker, navigate a labyrinth of intricate obstacles in your quest to unlock the legendary Door of Desires. Here's a glimpse of the adventure that awaits!
 
 <p align="middle">
-  <img src="/media/gif/beginning.gif" width="49%"/>
+  <img src="/media/gif/beggining.gif" width="49%"/>
   <img src="/media/gif/phase_start.gif" width="49%"/>
 </p>
 

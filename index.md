@@ -19,66 +19,59 @@ The technical aspect of the game includes:
 - Physics system integrated with external objects, e.g. moving platforms, spring jumps, falling platforms, etc.
 - Saving/loading system
 - In-game collectables
-- Cut-scenes, dialogues, power-ups, and many more
+- Cut-scenes, dialogues, power-ups, 20+ levels and many more
 
 ### The game itself
 
-Explore the enigmatic world of **Find The Door** a 2D platformer that challenges players with intricate puzzles and dynamic levels. Players take on the role of a seeker, navigating through a series of increasingly difficult obstacles in pursuit of the legendary Door of Desires. Armed with unique abilities like the Surge dash and a versatile grappling hook, you'll delve deeper into beautifully pixelated landscapes, guided by the cryptic Guardian and the light-hearted yet mysterious Zezinho.
+Venture into the mystic realms of **Find The Door**, a 2D platformer filled with complex puzzles and evolving challenges. As a seeker, navigate a labyrinth of intricate obstacles in your quest to unlock the legendary Door of Desires. Here's a glimpse of the adventure that awaits!
+
+<p align="middle">
+  <img src="/media/beginning.gif" width="49%"/>
+  <img src="/media/phase_start.gif" width="49%"/>
+</p>
 
 ---
 
-Witness the start of an adventure in Find The Door, where players are introduced to a world rich in challenges and mystique. This initial scene sets the
-stage for the complexity and beauty of the environments players will navigate.
+Encounter Zezinho, your cryptic yet humorous guide, and the Guardian, the enigmatic overseer who will test your resolve at every turn.
 
-![](https://github.com/jonckjunior/portfolio/blob/main/media/beginning.gif)
-
-![](https://github.com/jonckjunior/portfolio/blob/main/media/phase_start.gif)
-
----
-
-Meet Zezinho, the quirky guide who offers cryptic advice and comedic relief. This GIF captures his first dynamic interaction with the player, showcasing character animation and dialogue integration.
-
-![](https://github.com/jonckjunior/portfolio/blob/main/media/zezinho.gif)
+<p align="middle">
+  <img src="/media/zezinho.gif" width="49%"/>
+  <img src="/media/guardian.gif" width="49%"/>
+</p>
 
 ---
 
-Experience the imposing presence of the Guardian, a key narrative figure who challenges and oversees the player's progress, depicted here in his first formidable encounter with the player.
+Master essential platforming skills such as Dashes and Wall Jumps to navigate through the game's demanding environments.
 
-![](https://github.com/jonckjunior/portfolio/blob/main/media/guardian.gif)
-
----
-
-Surge dash mechanic in action, a crucial ability for overcoming wide gaps and quick reflex challenges, emphasizing the fluidity of motion and responsive control systems.
-
-![](https://github.com/jonckjunior/portfolio/blob/main/media/dash.gif)
+<p align="middle">
+  <img src="/media/dash.gif" width="49%"/>
+  <img src="/media/walljump.gif" width="49%"/>
+</p>
 
 ---
 
-Wall jump ability that allows players to navigate vertical challenges, highlighting the game’s physics engine and the integration of platforming mechanics that demand precision and timing.
+Explore further with the twist of a Grappling Hook, adding a layer of strategy and precision to your toolkit.
 
-![](https://github.com/jonckjunior/portfolio/blob/main/media/walljump.gif)
-
----
-
-Grappling hook, a versatile tool for traversing complex landscapes, illustrating the physics-driven gameplay and the hook’s role in exploring new areas.
-
-![](https://github.com/jonckjunior/portfolio/blob/main/media/hook.gif)
+<p align="middle">
+  <img src="/media/hook.gif" width="49%"/>
+  <img src="/media/blocks_that_dont_hook.gif" width="49%"/>
+</p>
 
 ---
 
-Gameplay complexity with blocks that resist the grappling hook, forcing players to adapt their strategies and demonstrating the game’s variable interaction mechanics.
+Tackle dynamic obstacles and refine your movements for precision gameplay.
 
-![](https://github.com/jonckjunior/portfolio/blob/main/media/blocks_that_dont_hook.gif)
-
----
-
-Use of springboards that propel the player to new heights!
-
-![](https://github.com/jonckjunior/portfolio/blob/main/media/springs.gif)
+<p align="middle">
+  <img src="/media/springs.gif" width="49%"/>
+  <img src="/media/precise_movement.gif" width="49%"/>
+</p>
 
 ---
 
-Put everything you've learn together!
+Synthesize your skills in challenging scenarios that require everything you’ve learned.
 
-![](https://github.com/jonckjunior/portfolio/blob/main/media/precise_movement.gif)
-![](https://github.com/jonckjunior/portfolio/blob/main/media/use_everything.gif)
+<p align="middle">
+  <img src="/media/use_everything.gif" width="49%"/>
+</p>
+
+Embark on this enthralling journey where each step unlocks a part of the grand mystery of the Door of Desires.

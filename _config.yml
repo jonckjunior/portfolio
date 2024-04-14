@@ -3,3 +3,5 @@ description: A collection of some of my work.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+url: "https://jonckjunior.github.io/"
+baseurl: "portfolio/"

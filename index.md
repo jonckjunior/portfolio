@@ -23,6 +23,8 @@ The technical aspect of the game includes:
 
 ### The game itself
 
+Explore the enigmatic world of "Find The Door" a 2D platformer that challenges players with intricate puzzles and dynamic levels. Players take on the role of a seeker, navigating through a series of increasingly difficult obstacles in pursuit of the legendary Door of Desires. Armed with unique abilities like the Surge dash and a versatile grappling hook, you'll delve deeper into beautifully pixelated landscapes, guided by the cryptic Guardian and the light-hearted yet mysterious Zezinho. This game not only tests your skill and ingenuity but also unfolds a compelling narrative of self-discovery and destiny, making each jump and dash part of a larger, poignant story.
+
 ![](https://github.com/jonckjunior/portfolio/blob/main/media/beginning.mp4)
 
 ---

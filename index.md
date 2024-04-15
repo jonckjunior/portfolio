@@ -6,6 +6,8 @@ layout: default
 
 **Find The Door** is a challenging **2D platformer** inspired by iconic titles like _Celeste_, _Super Meat Boy_, with a unique twist reminiscent of _Super Metroid_. The game blends tight, responsive controls with complex environmental puzzles, creating a deeply engaging platforming experience.
 
+For a playable version, visit: https://github.com/jonckjunior/portfolio
+
 ### Technical Features and Game Mechanics:
 
 - **Engine and Development Tools**: Developed in the Godot Engine and managed with git for version control, ensuring robust development workflows.
@@ -82,3 +84,5 @@ Venture into the mystic realms of **Find The Door**. Navigate a labyrinth of int
   </p> -->
 
 Embark on this thrilling adventure in **Find The Door**, where each challenge is a key to unraveling the grand mystery behind the legendary Door of Desires.
+
+# Competitive Programming Manager

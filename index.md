@@ -6,7 +6,7 @@ layout: default
 
 # Find The Door
 
-Find the Door is a **2D hard platformer** inspired by the likes of Celeste, Super Meat Boy and a little touch of Super Metroid.
+Find the Door is a **2D hard platformer** inspired by the likes of _Celeste_, _Super Meat Boy_ and a little touch of _Super Metroid_.
 
 The technical aspect of the game includes:
 
@@ -20,6 +20,23 @@ The technical aspect of the game includes:
 - Saving/loading system
 - In-game collectables
 - Cut-scenes, dialogues, power-ups, 20+ levels and many more
+
+Quality of life, or how to make the game _feels good_:
+
+- Coyote Jump: player can still jump after falling from a platform during a short time
+<p align="middle">
+  <img src="./media/gif/coyote_jump.gif" width="49%"/>
+</p>
+
+- Corner Dash: when the player dashes through a corner they will be pushed in the direction they were going
+<p align="middle">
+  <img src="./media/gif/corner_dash.gif" width="49%"/>
+</p>
+
+- Jump Buffer: if the player presses jump short before landing, they will immediatly execute a jump when touching the ground
+<p align="middle">
+  <img src="./media/gif/buffered_jump.gif" width="49%"/>
+</p>
 
 ### The game itself
 

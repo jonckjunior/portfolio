@@ -121,9 +121,9 @@ Step into the competitive world of **Code Conquerors**. Manage your team of skil
 - **Engaging Problem Solving**: Each coder must navigate through reading, solving, and coding phases, with each phase offering unique challenges.
 
   <p align="middle">
-    <img src="./media/images/read_phase.png" width="300" height="400"/>
-    <img src="./media/images/solve_phase.png" width="300" height="400"/>
-    <img src="./media/images/code_phase.png" width="300" height="400"/>
+    <img src="./media/images/read_phase.png" width="250" height="400"/>
+    <img src="./media/images/solve_phase.png" width="250" height="400"/>
+    <img src="./media/images/code_phase.png" width="250" height="400"/>
   </p>
 
 - **Competitive Elements**: Compete against AI-driven teams, observe real-time standings, and experience the thrill of climbing up the leaderboard.

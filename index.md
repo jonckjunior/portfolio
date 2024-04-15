@@ -21,21 +21,21 @@ layout: default
 
 - **Coyote Time**: Allows for a brief window to jump after leaving a platform, enhancing gameplay forgiveness.
 
-  <p align="middle">
+  <!-- <p align="middle">
     <img src="./media/gif/coyote_jump.gif" width="49%"/>
-  </p>
+  </p> -->
 
 - **Corner Correction Dash**: Adjusts player trajectory when dashing near corners, improving movement fluidity.
 
-  <p align="middle">
+  <!-- <p align="middle">
     <img src="./media/gif/corner_dash.gif" width="49%"/>
-  </p>
+  </p> -->
 
 - **Jump Buffering**: Captures jump inputs just before landing, enabling immediate response for seamless control.
 
-  <p align="middle">
+  <!-- <p align="middle">
     <img src="./media/gif/buffered_jump.gif" width="49%"/>
-  </p>
+  </p> -->
 
 ### Gameplay Experience:
 
@@ -44,41 +44,41 @@ Venture into the mystic realms of **Find The Door**. Navigate a labyrinth of int
 - **Key Characters**: Meet your guides, the quirky Zezinho and the enigmatic Guardian, who will challenge and assist you.
 
   <p align="middle">
-    <img src="./media/gif/zezinho.gif" width="49%"/>
-    <img src="./media/gif/guardian.gif" width="49%"/>
+    <img src="./media/images/zezinho_img.png" width="49%"/>
+    <img src="./media/images/guardian_img.png" width="49%"/>
   </p>
 
 - **Core Skills**: Master essential platforming skills such as dashing and wall jumping to advance through challenging environments.
 
   <p align="middle">
-    <img src="./media/gif/dash.gif" width="49%"/>
-    <img src="./media/gif/walljump.gif" width="49%"/>
+    <img src="./media/images/dash_img.png" width="49%"/>
+    <img src="./media/images/walljump_img.png" width="49%"/>
   </p>
 
 - **Grappling Hook**: Utilize this tool to discover new strategies and navigate the environment.
 
   <p align="middle">
-    <img src="./media/gif/hook.gif" width="49%"/>
-    <img src="./media/gif/blocks_that_dont_hook.gif" width="49%"/>
+    <img src="./media/images/hook_img.png" width="49%"/>
+    <img src="./media/images/blocks_that_dont_hook_img.png" width="49%"/>
   </p>
 
 - **Dynamic Challenges**: Face dynamic obstacles and refine your movements for precision gameplay.
 
   <p align="middle">
-    <img src="./media/gif/springs.gif" width="49%"/>
-    <img src="./media/gif/precise_movement.gif" width="49%"/>
+    <img src="./media/images/springs_img.png" width="49%"/>
+    <img src="./media/images/precise_movement_img.png" width="49%"/>
   </p>
 
 - **Skill Synthesis**: Combine all learned skills in complex scenarios to navigate the most demanding parts of the game. Discover and master Super Dashes to expand your ability to explore and conquer diverse landscapes.
 
   <p align="middle">
-    <img src="./media/gif/use_everything.gif" width="49%"/>
-    <img src="./media/gif/dash_and_hook.gif" width="49%"/>
+    <img src="./media/images/use_everything_img.png" width="49%"/>
+    <img src="./media/images/dash_and_hook_img.png" width="49%"/>
   </p>
 
   <p align="middle">
-    <img src="./media/gif/super_dash_horizontal.gif" width="49%"/>
-    <img src="./media/gif/super_dash_up.gif" width="49%"/>
+    <img src="./media/images/super_dash_horizontal_img.png" width="49%"/>
+    <img src="./media/images/super_dash_up_img.png" width="49%"/>
   </p>
 
 Embark on this thrilling adventure in **Find The Door**, where each challenge is a key to unraveling the grand mystery behind the legendary Door of Desires.

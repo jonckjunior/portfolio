@@ -4,7 +4,7 @@ layout: default
 
 <!-- [Link to another page](./another-page.html). -->
 
-# Find The Door
+# Find The Door 
 
 Find the Door is a **2D hard platformer** inspired by the likes of Celeste, Super Meat Boy and a little touch of Super Metroid.
 

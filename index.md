@@ -66,19 +66,19 @@ Venture into the mystic realms of **Find The Door**. Navigate a labyrinth of int
 
   <p align="middle">
     <img src="./media/images/springs_img.png" width="49%"/>
-    <img src="./media/images/precise_movement_img.png" width="49%"/>
+    <!-- <img src="./media/images/precise_movement_img.png" width="49%"/> -->
   </p>
 
 - **Skill Synthesis**: Combine all learned skills in complex scenarios to navigate the most demanding parts of the game. Discover and master Super Dashes to expand your ability to explore and conquer diverse landscapes.
 
   <p align="middle">
     <img src="./media/images/use_everything_img.png" width="49%"/>
-    <img src="./media/images/dash_and_hook_img.png" width="49%"/>
+    <!-- <img src="./media/images/dash_and_hook_img.png" width="49%"/> -->
   </p>
 
-  <p align="middle">
+  <!-- <p align="middle">
     <img src="./media/images/super_dash_horizontal_img.png" width="49%"/>
     <img src="./media/images/super_dash_up_img.png" width="49%"/>
-  </p>
+  </p> -->
 
 Embark on this thrilling adventure in **Find The Door**, where each challenge is a key to unraveling the grand mystery behind the legendary Door of Desires.

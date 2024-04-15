@@ -109,26 +109,27 @@ Step into the competitive world of **Code Conquerors**. Manage your team of skil
 - **Real-Time Strategy and Management**: Organize your team, assign problems based on coder’s strengths, and adjust strategies on the fly to outmaneuver competing teams.
 
   <p align="middle">
-    <img src="./media/images/problem_solving.png" width="49%"/>
+    <img src="./media/images/problem_solving.png" width="800" height="600"/>
   </p>
 
 - **Elo Progression System**: Watch your coders improve through each successfully solved problem, enhancing their abilities and your team’s overall ranking.
 
   <p align="middle">
-    <img src="./media/images/elo_progression.png" width="49%"/>
+    <img src="./media/images/elo_progression.png" width="800" height="100"/>
   </p>
 
 - **Engaging Problem Solving**: Each coder must navigate through reading, solving, and coding phases, with each phase offering unique challenges.
 
   <p align="middle">
-    <img src="./media/images/coding_phase.png" width="49%"/>
-    <img src="./media/images/planning_phase.png" width="49%"/>
+    <img src="./media/images/read_phase.png" width="300" height="400"/>
+    <img src="./media/images/solve_phase.png" width="300" height="400"/>
+    <img src="./media/images/code_phase.png" width="300" height="400"/>
   </p>
 
 - **Competitive Elements**: Compete against AI-driven teams, observe real-time standings, and experience the thrill of climbing up the leaderboard.
 
   <p align="middle">
-    <img src="./media/images/real_time_standings.png" width="49%"/>
+    <img src="./media/images/real_time_standings.png" width="800" height="200"/>
   </p>
 
 Embark on this unique journey in **Code Conquerors**, where strategic management, real-time decision making, and problem-solving skills are key to dominating the world of competitive programming.

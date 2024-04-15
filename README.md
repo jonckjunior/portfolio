@@ -79,6 +79,8 @@ Venture into the mystic realms of **Find The Door**. Navigate a labyrinth of int
 
 Embark on this thrilling adventure in **Find The Door**, where each challenge is a key to unraveling the grand mystery behind the legendary Door of Desires.
 
+---
+
 # Code Conquerors
 
 **Code Conquerors** is an innovative **competitive programming simulation** game inspired by the strategic planning and problem-solving aspects of competitive coding environments like Codeforces and TopCoder. In this simulation, players manage a team of coders, each represented as pawns, in real-time coding battles against AI teams.
